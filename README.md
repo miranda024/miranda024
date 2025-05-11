@@ -7,7 +7,7 @@ pessoas. Meu objetivo é crescer como profissional de Ciências da Computação,
 contribuindo com projetos relevantes e aprendendo continuamente.
 
 <p align="left">
-    <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
+    <a href="https://www.linkedin.com/in/miguel-lira-miranda-012a88352/?trk=guest_homepage-basic_google-one-tap-submit">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
